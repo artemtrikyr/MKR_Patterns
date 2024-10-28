@@ -1,0 +1,15 @@
+/Users/husll/Desktop/IT_at_all/2_курс/Шаблони проєктування/MKR_Patterns/MKR_Patterns/bin/Debug/net7.0/MKR_Patterns
+/Users/husll/Desktop/IT_at_all/2_курс/Шаблони проєктування/MKR_Patterns/MKR_Patterns/bin/Debug/net7.0/MKR_Patterns.deps.json
+/Users/husll/Desktop/IT_at_all/2_курс/Шаблони проєктування/MKR_Patterns/MKR_Patterns/bin/Debug/net7.0/MKR_Patterns.runtimeconfig.json
+/Users/husll/Desktop/IT_at_all/2_курс/Шаблони проєктування/MKR_Patterns/MKR_Patterns/bin/Debug/net7.0/MKR_Patterns.dll
+/Users/husll/Desktop/IT_at_all/2_курс/Шаблони проєктування/MKR_Patterns/MKR_Patterns/bin/Debug/net7.0/MKR_Patterns.pdb
+/Users/husll/Desktop/IT_at_all/2_курс/Шаблони проєктування/MKR_Patterns/MKR_Patterns/obj/Debug/net7.0/MKR_Patterns.csproj.AssemblyReference.cache
+/Users/husll/Desktop/IT_at_all/2_курс/Шаблони проєктування/MKR_Patterns/MKR_Patterns/obj/Debug/net7.0/MKR_Patterns.GeneratedMSBuildEditorConfig.editorconfig
+/Users/husll/Desktop/IT_at_all/2_курс/Шаблони проєктування/MKR_Patterns/MKR_Patterns/obj/Debug/net7.0/MKR_Patterns.AssemblyInfoInputs.cache
+/Users/husll/Desktop/IT_at_all/2_курс/Шаблони проєктування/MKR_Patterns/MKR_Patterns/obj/Debug/net7.0/MKR_Patterns.AssemblyInfo.cs
+/Users/husll/Desktop/IT_at_all/2_курс/Шаблони проєктування/MKR_Patterns/MKR_Patterns/obj/Debug/net7.0/MKR_Patterns.csproj.CoreCompileInputs.cache
+/Users/husll/Desktop/IT_at_all/2_курс/Шаблони проєктування/MKR_Patterns/MKR_Patterns/obj/Debug/net7.0/MKR_Patterns.dll
+/Users/husll/Desktop/IT_at_all/2_курс/Шаблони проєктування/MKR_Patterns/MKR_Patterns/obj/Debug/net7.0/refint/MKR_Patterns.dll
+/Users/husll/Desktop/IT_at_all/2_курс/Шаблони проєктування/MKR_Patterns/MKR_Patterns/obj/Debug/net7.0/MKR_Patterns.pdb
+/Users/husll/Desktop/IT_at_all/2_курс/Шаблони проєктування/MKR_Patterns/MKR_Patterns/obj/Debug/net7.0/MKR_Patterns.genruntimeconfig.cache
+/Users/husll/Desktop/IT_at_all/2_курс/Шаблони проєктування/MKR_Patterns/MKR_Patterns/obj/Debug/net7.0/ref/MKR_Patterns.dll
