@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "cDtlCeNGiXyB2dAWfhFoUO1enhuRJEyLGmGLDf6dYOdDiXrdE8xAE6sr/QK3g9CaRrm8EuESfbq62H15pS90HA==",
+  "dgSpecHash": "bsALcGymj/8=",
   "success": true,
   "projectFilePath": "/Users/husll/Desktop/IT_at_all/2_курс/Шаблони проєктування/MKR_Patterns/MKR_Patterns/MKR_Patterns.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/husll/.nuget/packages/microsoft.netcore.app.ref/7.0.20/microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "/Users/husll/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.20/microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "/Users/husll/.nuget/packages/microsoft.netcore.app.host.osx-x64/7.0.20/microsoft.netcore.app.host.osx-x64.7.0.20.nupkg.sha512"
+  ],
   "logs": []
 }

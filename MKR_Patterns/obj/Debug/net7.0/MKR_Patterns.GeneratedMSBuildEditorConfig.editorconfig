@@ -9,3 +9,5 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MKR_Patterns
 build_property.ProjectDir = /Users/husll/Desktop/IT_at_all/2_курс/Шаблони проєктування/MKR_Patterns/MKR_Patterns/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
